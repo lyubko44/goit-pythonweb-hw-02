@@ -1,5 +1,5 @@
 # Docker-команда FROM вказує базовий образ контейнера
-FROM python:3.9
+FROM python:3.10
 
 # Встановимо змінну середовища
 ENV APP_HOME /app
